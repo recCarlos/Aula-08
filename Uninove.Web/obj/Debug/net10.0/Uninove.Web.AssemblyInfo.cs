@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uninove.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f248039ec6b198afb4f065254a4fbbefe67efad7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eba760ebdde78f451514f271d4fe49d631d8b00d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uninove.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uninove.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
